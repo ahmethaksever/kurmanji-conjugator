@@ -1,1 +1,1 @@
-# kurmanji-conjigator
+# kurmanji-conjugator
