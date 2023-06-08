@@ -26,7 +26,7 @@ Ew ê acizbibe
 Em ê acizbibin
 Hun ê acizbibin
 Ew ê acizbibin
-####Past####
+####Past Tense####
 Ez aciz bûm
 Tu aciz bû
 Ew aciz bû
