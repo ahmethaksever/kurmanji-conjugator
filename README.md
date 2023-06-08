@@ -10,15 +10,52 @@ Here are the some test cases:
 
 - print_result("acizbûn") #intransive and a compound verb
 
+**Output:**
+```
+Ez aciz dibim
+Tu aciz dibî
+Ew aciz dibe
+Em aciz dibin
+Hun aciz dibin
+Ew aciz dibin
+Ez ê acizbibim
+Tu ê acizbibî
+Ew ê acizbibe
+Em ê acizbibin
+Hun ê acizbibin
+Ew ê acizbibin
+Ez aciz bûm
+Tu aciz bû
+Ew aciz bû
+Em aciz bûn
+Hun aciz bûn
+Ew aciz bûn
+```
+
 - print_result("ditin") # if the user misspell a verb, autocorrect function start to work and gives response.
+
+**Output:**
+```
+Did you mean one of the following verbs?
+1. dîtin
+2. dotin
+Please enter the number of the verb you choose: 1
+Ez  dibînim
+Tu  dibînî
+Ew  dibîne
+Em  dibînin
+Hun  dibînin
+Ew  dibînin
+```
 
 - print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put  
 
-**Here is the output:**
+**Output:**
 ```
-> Min dît. (I saw)
-
-> Te dît. (You saw)
-
-> Ew dît. (She saw)
+Min ew  dît
+Te ew  dît
+Wi/wê ew  dît
+Me ew  dît
+We ew  dît
+Wê ew  dît
 ```
