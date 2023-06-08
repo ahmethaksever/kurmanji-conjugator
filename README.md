@@ -12,9 +12,13 @@ Here are the some test cases:
 
 - print_result("ditin") # if the user misspell a verb, autocorrect function start to work and gives response.
 
+- print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put  
 
-- print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put
-Here is the output:
+**Here is the output:**
+```
 > Min dît. (I saw)
+
 > Te dît. (You saw)
+
 > Ew dît. (She saw)
+```
