@@ -12,18 +12,21 @@ Here are the some test cases:
 
 **Output:**
 ```
+***Present Tense***
 Ez aciz dibim
 Tu aciz dibî
 Ew aciz dibe
 Em aciz dibin
 Hun aciz dibin
 Ew aciz dibin
+***Future Tense***
 Ez ê acizbibim
 Tu ê acizbibî
 Ew ê acizbibe
 Em ê acizbibin
 Hun ê acizbibin
 Ew ê acizbibin
+***Past***
 Ez aciz bûm
 Tu aciz bû
 Ew aciz bû
