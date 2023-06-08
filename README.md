@@ -35,6 +35,18 @@ Hun aciz bûn
 Ew aciz bûn
 ```
 
+- print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put  
+
+**Output:**
+```
+Min ew  dît
+Te ew  dît
+Wi/wê ew  dît
+Me ew  dît
+We ew  dît
+Wê ew  dît
+```
+
 - print_result("ditin", tense="present") # if the user misspell a verb, autocorrect function start to work and gives response.
 
 **Output:**
@@ -49,16 +61,4 @@ Ew  dibîne
 Em  dibînin
 Hun  dibînin
 Ew  dibînin
-```
-
-- print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put  
-
-**Output:**
-```
-Min ew  dît
-Te ew  dît
-Wi/wê ew  dît
-Me ew  dît
-We ew  dît
-Wê ew  dît
 ```
