@@ -32,7 +32,7 @@ Hun aciz bûn
 Ew aciz bûn
 ```
 
-- print_result("ditin") # if the user misspell a verb, autocorrect function start to work and gives response.
+- print_result("ditin", tense="present") # if the user misspell a verb, autocorrect function start to work and gives response.
 
 **Output:**
 ```
