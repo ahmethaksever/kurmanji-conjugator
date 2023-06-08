@@ -14,6 +14,7 @@ Here are the some test cases:
 
 
 - print_result("dîtin", tense="past") #if the user tense parameter into function, it only gives the tense that the user put
+Here is the output:
 > Min dît. (I saw)
-Te dît. (You saw)
-Ew dît. (She saw)
+> Te dît. (You saw)
+> Ew dît. (She saw)
